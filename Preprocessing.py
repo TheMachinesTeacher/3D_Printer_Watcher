@@ -1,7 +1,7 @@
 import cv2
 
-smallerImgWidth = 720/4
-smallerImgHeight = 1280/4
+smallerImgWidth = 720/3
+smallerImgHeight = 1280/3
 
 # img is a 1280x720 image
 def preprocessImage(img):
